@@ -1,0 +1,39 @@
+body{
+    background-color: #08D9D6;
+    text-align: center;
+}
+h1{
+    color: #252A34
+}
+h3{
+    color: #FF2E63
+}
+h4{
+    color: #32012F
+}
+ul{
+    list-style: none;
+}
+h1 {
+    font-family: "Sedan SC", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  .jersey-25-charted-regular {
+        font-family: "Freeman", sans-serif;
+        font-weight: 400;
+        font-style: normal;      
+  }
+  .bebas-neue-regular {
+  font-family: "Bebas Neue", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+h3 {
+  font-family: "Bebas Neue", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  background-color: black;
+}
+
+  
